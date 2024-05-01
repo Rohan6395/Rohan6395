@@ -1,4 +1,4 @@
-Hi Hi I'm a B.Tech student working on addressing the stocks through ML analysis.
+Hi I'm a B.Tech student working on addressing the stocks through ML analysis.
 My most recent project involves using symbolic programming to build Neural Architecture Search pipelines for Graph Neural Networks.
 - 👀 I’m currently working on Positive-Unlabelled Learning, Graph Learning, and AutoML.
 - 🌱 I’m currently exploring Ways to exploit GraphGym to and build AutoML pipelines for Graphs
