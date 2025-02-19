@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on some open source projects.<br>👯 I’m looking to collaborate on stock prediction project.<br>🤝 I’m looking for help with Machine Learning algorithms.<br>🌱 I’m currently learning Deep Learning.<br>💬 Ask me about AI&ML.<br>⚡ Fun fact I am funny.
+>⚡ Fun fact I am funny.
 
 
 ## 🌐 Socials:
